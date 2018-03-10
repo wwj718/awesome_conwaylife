@@ -10,3 +10,7 @@
 *  [Sir Robin](http://www.conwaylife.com/wiki/Sir_Robin)
 
 <image src="http://www.conwaylife.com/w/images/1/1b/Sirrobin.png" width="100">
+
+*  [Gemini](http://www.conwaylife.com/wiki/Gemini)
+
+<image src="http://www.conwaylife.com/w/images/c/cd/Gemini.png" width="100">
