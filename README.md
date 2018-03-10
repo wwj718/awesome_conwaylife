@@ -14,3 +14,6 @@
 *  [Gemini](http://www.conwaylife.com/wiki/Gemini)
 
 <image src="http://www.conwaylife.com/w/images/c/cd/Gemini.png" width="100">
+
+*  [Gosper glider gun](http://www.conwaylife.com/wiki/Gosper_glider_gun)
+<image src="http://www.conwaylife.com/w/images/9/9f/Gosperglidergun.png" width="100">
